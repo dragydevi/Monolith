@@ -14860,3 +14860,12 @@ Entries:
   id: 1648
   time: '2025-12-13T06:19:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2794
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Hand-mining improvement: All non-autoswinging mining tools were given
+        autoswing.
+  id: 1649
+  time: '2025-12-13T06:38:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2791

@@ -15141,3 +15141,10 @@ Entries:
   id: 1678
   time: '2025-12-23T16:11:49.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2814
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: TSFMC and Freelance death rattles now speak faction language now.
+  id: 1679
+  time: '2025-12-23T16:19:47.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2803
